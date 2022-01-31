@@ -1,5 +1,4 @@
 //library for string manipulation. Arguments marked with * are optional
-//ALL OF THESE ARE STRING METHODS IN PYTHON THAT MAY OR MAY NOT EXIST IN JS BY DEFAULT
 
 /*
  Slices a string from start to end with step steps.
